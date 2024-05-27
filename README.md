@@ -2,7 +2,7 @@
 
 Welcome to **AtEngine**, the ultimate ASCII-based game engine for creating retro and text-based games!
 
-![AtEngine Logo](path/to/your/logo.png)
+![AtEngine Logo](images/atengine.png)
 
 ## DISCLAIMER
 
