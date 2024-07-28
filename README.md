@@ -10,14 +10,14 @@ Welcome to **AtEngine**, the ultimate ASCII-based game engine for creating retro
 
 ## Table of Contents
 
-- [What-is-this?](##What-is-this?)
-- [Features](##features)
-- [Installation](##installation)
-- [Usage](##usage)
-- [Examples](##examples)
-- [Documentation](##documentation)
-- [Contributing](##contributing)
-- [License](##license)
+- [What-is-this?](#What-is-this?)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Examples](#examples)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 ## What-is-this
